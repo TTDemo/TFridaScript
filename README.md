@@ -1,0 +1,2 @@
+# TFridaScript
+本人在逆向分析过程中使用的常用frida分析脚本
